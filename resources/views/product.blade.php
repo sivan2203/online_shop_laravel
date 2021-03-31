@@ -11,8 +11,8 @@
 
         <form action="http://internet-shop.tmweb.ru/basket/add/1" method="POST">
             <button type="submit" class="btn btn-success" role="button">Добавить в корзину</button>
-
-            <input type="hidden" name="_token" value="Gefc7YGBmO5XcmYk45IFoJFAc7knXFJpBqmxvtqo">        </form>
+            <input type="hidden" name="_token" value="Gefc7YGBmO5XcmYk45IFoJFAc7knXFJpBqmxvtqo">
+        </form>
     </div>
 @endsection
 
