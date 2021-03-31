@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="38f529e9-9d14-4d36-93a5-d0fef740d6db" name="Default Changelist" comment="" />
+    <list default="true" id="38f529e9-9d14-4d36-93a5-d0fef740d6db" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/BasketController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/MainController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/MainController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/Order.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Order.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -160,7 +165,7 @@
       <workItem from="1616591821878" duration="2570000" />
       <workItem from="1616693033560" duration="2007000" />
       <workItem from="1617032341490" duration="2169000" />
-      <workItem from="1617206099481" duration="942000" />
+      <workItem from="1617206099481" duration="1258000" />
     </task>
     <servers />
   </component>
@@ -172,9 +177,10 @@
       <screen x="0" y="25" width="1920" height="997" />
     </state>
     <state x="643" y="237" key="NewPhpClassDialog/0.25.1920.997@0.25.1920.997" timestamp="1616581596977" />
-    <state x="625" y="245" width="670" height="676" key="search.everywhere.popup" timestamp="1616592732674">
-      <screen x="0" y="25" width="1920" height="997" />
+    <state x="625" y="238" width="670" height="733" key="search.everywhere.popup" timestamp="1617207166158">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
+    <state x="625" y="238" width="670" height="733" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1617207166158" />
     <state x="625" y="245" width="670" height="676" key="search.everywhere.popup/0.25.1920.997@0.25.1920.997" timestamp="1616592732674" />
   </component>
 </project>
