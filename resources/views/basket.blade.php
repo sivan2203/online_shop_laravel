@@ -31,11 +31,11 @@
                                             class="glyphicon glyphicon-minus" aria-hidden="true"></span></button>
                                     <input type="hidden" name="_token" value="QbHrVQG1ocarZF2K7TCtr6c4mqvkqmw7KoNkaa3T">
                                 </form>
-                                <form action="http://internet-shop.tmweb.ru/basket/add/1" method="POST">
+                                <form action="{{route('basket-add', $product)}}" method="POST">
                                     <button type="submit" class="btn btn-success"
                                             href=""><span
                                             class="glyphicon glyphicon-plus" aria-hidden="true"></span></button>
-                                    <input type="hidden" name="_token" value="QbHrVQG1ocarZF2K7TCtr6c4mqvkqmw7KoNkaa3T">
+                                    @csrf
                                 </form>
                             </div>
                         </td>
